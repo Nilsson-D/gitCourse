@@ -1,6 +1,6 @@
 # Git course
 
-### basic command
+### basic commands
 * init
 * add
 * status
